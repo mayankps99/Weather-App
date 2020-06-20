@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173159216905",
+    "firebase_url": "https://internship-project-7560f.firebaseio.com",
+    "project_id": "internship-project-7560f",
+    "storage_bucket": "internship-project-7560f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173159216905:android:6789ce4f1429c3de8d45d8",
+        "android_client_info": {
+          "package_name": "com.example.intership_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173159216905-seaken0afenq7cfhg2aip0accsaglm3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intership_project",
+            "certificate_hash": "41dd8a017aa5399760ad13e60204d2c4a3bfcae8"
+          }
+        },
+        {
+          "client_id": "173159216905-6k33qv1o8rop5jd9tajvud2n872gc9s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyLszH2q_NQwsy4OStTn73CW9LkuIAeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173159216905-6k33qv1o8rop5jd9tajvud2n872gc9s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
