@@ -9,5 +9,4 @@ A Weather App which tell the current temperature of your area by locating the la
 
 ## Screenshots
 
-<img src="screenshot/Screenshot_1.png" width=320px height=600px> <img src="screenshot/Screenshot_2.png" width=320px height=600px>
-<img src="screenshot/Screenshot_3.png" width=320px height=600px>
+<img src="screenshot/Screenshot_1.png" width=210px height=400px> <img src="screenshot/Screenshot_2.png" width=210px height=400px> <img src="screenshot/Screenshot_3.png" width=210px height=400px>
